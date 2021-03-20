@@ -1,15 +1,16 @@
 {
-  "name": "holmes",
+  "name": "Holmes",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app/main.js",
   "dependencies": {
     "electron": "^12.0.1"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "charlie hwang",
   "license": "ISC"
 }
